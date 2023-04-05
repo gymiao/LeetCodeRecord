@@ -1,0 +1,6 @@
+$ git init 
+$ git add .
+$ git commit -m "xxxxx" (xxxxx为本次提交修改的简要说明)
+$ git branch -M main (刚开始分支为main)
+$ git remote add origin git@github.com:XXXX （xxxx为username.projectname.git,即用户名.项目名.git）
+$ git push -u origin main
